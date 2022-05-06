@@ -1,7 +1,6 @@
 # SLR98
 
-This is a Sign Language Recogniser made for 3rd Semester Practicum Course.
-
+This is a Sign Language Recogniser 
 ## The TechStack used is:
 - Python
 - Flask
